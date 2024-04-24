@@ -8,10 +8,35 @@ h1 {
 h2 {
   color: #1460aa;
 }
-h3 {
-  color: white;
-  background: chocolate;
-}
 section {
   background: #aac59a;
+}
+
+.czerwony {
+  color: red;
+}
+
+#nowyartykul {
+  background: lawngreen;
+}
+
+p {
+  color: rgb(18, 6, 133);
+}
+
+a {
+  color: yellow;
+}
+
+section a {
+  color: chartreuse;
+}
+
+.my-article p {
+  background: cornflowerblue;
+  color: white;
+}
+
+#name {
+  color: blue;
 }
