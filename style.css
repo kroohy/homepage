@@ -27,9 +27,11 @@ p {
 a {
   color: yellow;
 }
-
 section a {
-  color: chartreuse;
+  color: inherit;
+}
+.my-article {
+  color: hotpink;
 }
 
 .my-article p {
@@ -39,4 +41,8 @@ section a {
 
 #name {
   color: blue;
+}
+
+.about {
+  color: #1a0236;
 }
